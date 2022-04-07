@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-07T22:34:06 IST" name="Default suite" finished-at="2022-04-07T22:34:06 IST" duration-ms="54">
+    <groups>
+    </groups>
+    <test started-at="2022-04-07T22:34:06 IST" name="Default test" finished-at="2022-04-07T22:34:06 IST" duration-ms="54">
+      <class name="com.automation.CalculaterTest">
+        <test-method signature="addtion()[pri:0, instance:com.automation.CalculaterTest@4bb33f74]" started-at="2022-04-07T22:34:06 IST" name="addtion" finished-at="2022-04-07T22:34:06 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtion -->
+        <test-method signature="division()[pri:0, instance:com.automation.CalculaterTest@4bb33f74]" started-at="2022-04-07T22:34:06 IST" name="division" finished-at="2022-04-07T22:34:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- division -->
+        <test-method signature="multilication()[pri:0, instance:com.automation.CalculaterTest@4bb33f74]" started-at="2022-04-07T22:34:06 IST" name="multilication" finished-at="2022-04-07T22:34:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multilication -->
+        <test-method signature="subtraction()[pri:0, instance:com.automation.CalculaterTest@4bb33f74]" started-at="2022-04-07T22:34:06 IST" name="subtraction" finished-at="2022-04-07T22:34:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subtraction -->
+      </class> <!-- com.automation.CalculaterTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
