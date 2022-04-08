@@ -21,6 +21,6 @@ public class CalculaterTest {
 	}
 	@Test
 	public void division() {
-		Assert.assertEquals(cal.divisio(20, 10), 2);
+		Assert.assertEquals(cal.divisio(20, 10), 3);
 	}
 }
